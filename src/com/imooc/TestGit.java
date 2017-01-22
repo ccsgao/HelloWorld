@@ -7,5 +7,7 @@ public class TestGit {
 	public int a;
 	public int c;
 	
-	public TestGit(){}
+	public TestGit(){
+		a = 10;
+	}
 }
